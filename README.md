@@ -1,4 +1,4 @@
-#Task Manager REST API (Flask)
+## Task Manager REST API (Flask)
 
 A simple REST API built using Flask to manage tasks. Users can create, update, mark tasks as completed, and delete them. The data is stored in memory (no database required).
 
