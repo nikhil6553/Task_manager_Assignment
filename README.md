@@ -33,7 +33,7 @@ http://127.0.0.1:5000
 
 ---
 
-##API Endpoints
+## API Endpoints
 
 ### 1. Create Task
 
@@ -129,7 +129,7 @@ http://127.0.0.1:5000
 
 ---
 
-##Testing
+## Testing
 
 The API was tested using **Postman**.
 
@@ -142,7 +142,7 @@ Steps:
 
 ---
 
-##Project Structure
+## Project Structure
 
 ```
 task-manager/
@@ -158,7 +158,7 @@ task-manager/
 
 ---
 
-##Notes
+## Notes
 
 * Data is stored in memory (will reset when server restarts)
 * Designed for simplicity and clarity
