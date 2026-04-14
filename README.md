@@ -10,7 +10,7 @@ A simple REST API built using Flask to manage tasks. Users can create, update, m
 
 ```bash
 git clone <your-repo-link>
-cd task-manager
+cd <repo-name>
 ```
 
 ### 2. Install dependencies
